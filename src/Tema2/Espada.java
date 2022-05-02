@@ -1,9 +1,9 @@
 package Tema2;
 
 public class Espada {
-    private int damage;
-    private int usos;
-    private String nombre;
+    protected int damage;
+    protected int usos;
+    protected String nombre;
 
     public Espada(String nombre,int damage, int usos) {
         this.nombre = nombre;
