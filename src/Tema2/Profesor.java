@@ -1,6 +1,6 @@
 package Tema2;
 
-public class Profesor {
+public abstract class Profesor {
     private String nombre;
     private String categoria;
     private int id;
